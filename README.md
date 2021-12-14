@@ -2,6 +2,8 @@
 
 - 💻 trabalho como desenvolvedor back-end Nodejs
 - 📚 Estou aprimorando minhas habilidades em Typescript e Python
+- 📌 Já desenvolvi pequenos projetos com React, React Native, NextJs, HTML, css, scss, e com alguns players de test como Jest e Cypress.
+
 ## 
 <div align="center">
   <a href="https://github.com/EduardoWeschenfelder">
