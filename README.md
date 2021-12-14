@@ -1,7 +1,7 @@
 ### Olá eu sou o Eduardo Barbosa Weschenfelder!!
 
 - 💻 trabalho como desenvolvedor back-end Nodejs
-- 📚 Estou aprimorando minhas habilidades em Nodejs e Python
+- 📚 Estou aprimorando minhas habilidades em Typescript e Python
 ## 
 <div align="center">
   <a href="https://github.com/EduardoWeschenfelder">
