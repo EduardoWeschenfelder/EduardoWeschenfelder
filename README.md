@@ -1,7 +1,7 @@
 ### Olá eu sou o Eduardo Barbosa Weschenfelder!!
 
 - 💻 trabalho como desenvolvedor back-end Nodejs
-- 📚 Estou aprimorando minhas habilidades em Typescript e Python
+- 📚 Estou aprimorando minhas habilidades em Nodejs e Typescript 
 - 📌 Já desenvolvi pequenos projetos com React, React Native, NextJs, HTML, css, scss, e com alguns players de test como Jest e Cypress.
 
 ## 
