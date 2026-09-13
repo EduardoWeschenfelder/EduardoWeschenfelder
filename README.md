@@ -1,8 +1,8 @@
-### Olá eu sou o Eduardo Barbosa Weschenfelder!!
+### Bem vindo, eu sou o Eduardo Barbosa Weschenfelder!!
 
-- 💻 trabalho como desenvolvedor back-end Nodejs
-- 📚 Estou aprimorando minhas habilidades em Nodejs e Typescript 
-- 📌 Já desenvolvi pequenos projetos com React, React Native, NextJs, HTML, css, scss, e com alguns players de test como Jest e Cypress.
+- 💻 Trabalho como analista de sistemas
+- 📚 Atuo como fullstack, atualmente com foco em T-SQL e Angular js 
+- 📌 Já desenvolvi projetos e sistemas com Angular js,  React, React Native, NextJs, HTML, css, scss, e com alguns players de test como Jest e Cypress.
 
 ## 
 <div align="center">
@@ -12,8 +12,6 @@
 </div>
 
   <div style="display: inline_block"><br>
-  <img align="right" alt="Edu-node" height="30" src="https://www.svgrepo.com/show/303658/nodejs-1-logo.svg">
-  <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Edu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
